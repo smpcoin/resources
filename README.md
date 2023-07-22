@@ -11,6 +11,8 @@ GET  http://localhost:1005/chequebook/balance
 
 responses:{"totalBalance":101200000000000000000,"miningBalance":100000000000000000000}
 
+Calculate reward: reward = totalBalance - miningBalance
+
 ## withdraw
 
 POST http://localhost:1005/chequebook/withdraw
