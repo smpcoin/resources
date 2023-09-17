@@ -6,12 +6,11 @@ https://blockexplorer-lyart.vercel.app/
 
 ## Ming-info
 
-https://github.com/smpcoin/resources/raw/main/~%24ng-info.docx
+https://github.com/smpcoin/resources/blob/main/MingInfo.pdf
 
 ## Bsc-node
 
-https://github.com/smpcoin/resources/raw/main/~%24c-node.docx
-
+https://github.com/smpcoin/resources/blob/main/BscNode.pdf
 # API 
 
 ## Display balance  
