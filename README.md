@@ -4,6 +4,13 @@
 
 https://blockexplorer-lyart.vercel.app/
 
+## Ming-info
+
+https://github.com/smpcoin/resources/raw/main/~%24ng-info.docx
+
+## Bsc-node
+
+https://github.com/smpcoin/resources/raw/main/~%24c-node.docx
 
 # API 
 
